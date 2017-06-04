@@ -11,4 +11,5 @@ In this repository I add interesting and useful articles
 <li>Гугл карты - http://webcareer.ru/1-kak-vstavit-kartu-google-na-sajt.html</li>
 <li>Motion UI графическая библиотека - https://habrahabr.ru/company/ua-hosting/blog/279067/</li>
 <li>Srcoll page - https://force-js.com/</li>
+<li>https://schoberg.net/2015/08/fast-agile-youtube-embed-responsive-iframe-load-delay-with-jquery/ - Загрузка видео с YouTube</li>
 </ul>
